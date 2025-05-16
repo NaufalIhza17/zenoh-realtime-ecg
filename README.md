@@ -1,4 +1,6 @@
-# Zenoh Real-time ECG Monitor
+# Zenoh Real-time ECG Monitor | Advanced Computer Programming
+
+Mochammad Naufal Ihza Syahzada - 112021223
 
 A real-time ECG (Electrocardiogram) signal visualization system built with Eclipse Zenoh and Python. This project demonstrates real-time data publishing and visualization using simulated ECG signals.
 
@@ -22,7 +24,7 @@ A real-time ECG (Electrocardiogram) signal visualization system built with Eclip
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/zenoh-realtime-ecg.git
+git clone https://github.com/NaufalIhza17/zenoh-realtime-ecg.git
 cd zenoh-realtime-ecg
 ```
 
